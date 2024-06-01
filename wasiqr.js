@@ -68,16 +68,16 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *CONTACT:* _HTTPS://WA.ME/254737681758_
-║❒ *DEVELOPER:* _https://wa.me/message/254114141192_
-║❒ *REPO:* _https://github.com/Beltahmd_
-║❒ *WAGROUP:* _https://chat.whatsapp.com/FF6YuOZTJAVB6Lu65cnY5BN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_
+║❒ *CONTACT:* _HTTPS://WA.ME/254769702239_
+║❒ *DEVELOPER:* _https://wa.me/message/254796266758_
+║❒ *REPO:* _https://github.com/Speedmd_
+║❒ *WAGROUP:* _https://chat.whatsapp.com/Bw2m61sYFUyB5Zp1h8DznX_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vah7UNT6BIEIZKwvzY43_
 ║❒ *Plugins:* _https://github.com/Itxxwasi 
 ╚════════════════════════╝
 _____________________________________
 	
-_★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖_`
+_★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 Alpha-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
 
