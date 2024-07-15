@@ -12,7 +12,7 @@
     <img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="500">
      
 </a>
- <p align="center"><img src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg" alt="xcelsama:: Visitor's Count" /></p>
+ <p align="center"><img src="https://telegra.ph/file/4fe5da5003e390a58de5f.jpg" alt="xcelsama:: Visitor's Count" /></p>
 
 
 
