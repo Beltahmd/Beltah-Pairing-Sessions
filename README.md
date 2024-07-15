@@ -1,4 +1,4 @@
-# BELTAH-Session-Generator
+# POPKID-Session-Generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -16,7 +16,7 @@
 
 
 
-[`ℹ️Contact Owner`](https://wa.me/254114141192)
+[`ℹ️Contact Owner`](https://wa.me/254111385747)
 
 FORK THE REPOSITORY (Repo) 
     <br>
