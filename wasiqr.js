@@ -59,25 +59,25 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Beltah Tech_*
-*_Made With Beltah Tech Team_*
+*_Session Connected By Popkid Tech_*
+*_Made With Popkid Tech Team_*
 ______________________________________
 ╔════◇
-║ *『THANK YOU FOR CHOOSING BELTAH BOT』*
+║ *『THANK YOU FOR CHOOSING POPKID BOT』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *CONTACT:* _HTTPS://WA.ME/254737681758_
-║❒ *DEVELOPER:* _https://wa.me/message/254114141192_
-║❒ *REPO:* _https://github.com/Beltahmd_
+║❒ *CONTACT:* _HTTPS://WA.ME/254111385747_
+║❒ *DEVELOPER:* _https://wa.me/message/254111385747_
+║❒ *REPO:* _https://github.com/Popkidmd_
 ║❒ *WAGROUP:* _https://chat.whatsapp.com/FF6YuOZTJAVB6Lu65cnY5BN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l_
 ║❒ *Plugins:* _https://github.com/Itxxwasi 
 ╚════════════════════════╝
 _____________________________________
 	
-_★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖_`
+_★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 Popkid-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
 
